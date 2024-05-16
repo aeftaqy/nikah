@@ -52,7 +52,7 @@ section#lokasi,
 #galeri,
 #pesan {
     background-size: initial;
-    background-image: url(../../assets/images/ornam/Asset5.png);
+    background-image: url(https://raw.githack.com/aeftaqy/nikah/main/Asset5.png);
     background-repeat: no-repeat;
     background-position: top 3px center
 }
@@ -60,7 +60,7 @@ section#lokasi,
 section.card-1 {
     border-radius: 20px;
     margin-top: 10px;
-    background-image: url(../../assets/images/ornam/Asset5.png);
+    background-image: url(https://raw.githack.com/aeftaqy/nikah/main/Asset5.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover
